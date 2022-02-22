@@ -1,0 +1,16 @@
+@use './reset.css';
+/* @font-face {
+  font-family: "Inter-Regular";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: url("/fonts/Inter-Regular.ttf") format(TrueType);
+} */
+
+body {
+  font-family: $font;
+  font-size: 1.6rem;
+}
+/* 
+// Bulma
+@import '~bulma'; */
